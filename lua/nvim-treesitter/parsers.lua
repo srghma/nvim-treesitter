@@ -1025,9 +1025,9 @@ list.idl = {
   maintainers = { "@cathaysia" },
 }
 
-list.idris = {
+list.idris2 = {
   install_info = {
-    url = "https://github.com/kayhide/tree-sitter-idris",
+    url = "https://github.com/srghma/tree-sitter-idris",
     files = { "src/parser.c", "src/scanner.c" },
   },
   maintainers = { "@srghma" },
